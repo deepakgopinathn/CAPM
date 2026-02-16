@@ -1,0 +1,19 @@
+{
+  "name": "06_nodemicroservice",
+  "version": "1.0.0",
+  "description": "My first node js microservie",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "microservice"
+  ],
+  "author": "anubhav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

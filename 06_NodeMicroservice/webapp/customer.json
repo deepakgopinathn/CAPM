@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.j@example.com",
+    "status": "active",
+    "joined": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@provider.net",
+    "status": "inactive",
+    "joined": "2022-11-20"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Davis",
+    "email": "charlie.d@service.org",
+    "status": "active",
+    "joined": "2023-03-05"
+  },
+  {
+    "id": 4,
+    "name": "Diana Prince",
+    "email": "diana.p@enterprise.io",
+    "status": "pending",
+    "joined": "2023-05-12"
+  },
+  {
+    "id": 5,
+    "name": "Ethan Hunt",
+    "email": "ethan.h@agency.com",
+    "status": "active",
+    "joined": "2023-02-28"
+  }
+]

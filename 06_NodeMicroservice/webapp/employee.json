@@ -1,0 +1,42 @@
+[
+  {
+    "id": 101,
+    "name": "Sarah Miller",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "email": "sarah.m@company.com",
+    "salary": 85000
+  },
+  {
+    "id": 102,
+    "name": "James Wilson",
+    "role": "Product Manager",
+    "department": "Product",
+    "email": "james.w@company.com",
+    "salary": 92000
+  },
+  {
+    "id": 103,
+    "name": "Elena Rodriguez",
+    "role": "UX Designer",
+    "department": "Design",
+    "email": "elena.r@company.com",
+    "salary": 78000
+  },
+  {
+    "id": 104,
+    "name": "David Chen",
+    "role": "DevOps Engineer",
+    "department": "Infrastructure",
+    "email": "david.c@company.com",
+    "salary": 88000
+  },
+  {
+    "id": 105,
+    "name": "Aisha Khan",
+    "role": "Data Scientist",
+    "department": "Analytics",
+    "email": "aisha.k@company.com",
+    "salary": 95000
+  }
+]
